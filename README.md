@@ -7,14 +7,14 @@ This chatbot can respond to greetings, tell jokes, solve math problems, and answ
 
 ##  Features
 
-✅ Friendly greeting with learner-focused message  
-✅ Time & Date queries  
-✅ Python and AI explanations  
-✅ Math problem solver (e.g., `5+3`, `10/2`)  
-✅ Science concepts (photosynthesis, gravity, cell, electricity, etc.)  
-✅ Social Studies topics (Democracy, Indian Independence, Gandhi, Capital of India)  
-✅ Jokes using the **pyjokes** module   
-✅ Exit commands (`bye`, `exit`, `quit`)  
+- Friendly greeting with learner-focused message  
+- Time & Date queries  
+- Python and AI explanations  
+- Math problem solver (e.g., `5+3`, `10/2`)  
+- Science concepts (photosynthesis, gravity, cell, electricity, etc.)  
+- Social Studies topics (Democracy, Indian Independence, Gandhi, Capital of India)  
+- Jokes using the **pyjokes** module   
+- Exit commands (`bye`, `exit`, `quit`)  
 
 ---
 
