@@ -1,4 +1,4 @@
-#  Pattern Matching Chatbot (Python)
+#  CHATBOT WITH RULE-BASED RESPONSES
 
 A simple yet creative **rule-based chatbot** built using **Python, Regular Expressions, and external modules**.  
 This chatbot can respond to greetings, tell jokes, solve math problems, and answer basic **Science** and **Social Studies** questions.
